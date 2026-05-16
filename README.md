@@ -1,53 +1,53 @@
-### 👋 Hi, I'm frostsalix
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=333333&center=true&vCenter=true&lines=Hi%2C+I'm+frostsalix;Full+Stack+Developer;Open+Source+Builder" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=frostsalix&color=blue&style=flat-square" alt="visitor count" />
+</p>
 
 A passionate developer building elegant solutions with code. I believe in creating impactful software that makes a difference.
 
 ---
 
-<details>
-<summary><h3>📈 GitHub Stats & Activity</h3></summary>
+<details open>
+<summary><h3>GitHub Stats & Activity</h3></summary>
 <br>
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=frostsalix&theme=github_dark&hide_border=true" height="180" alt="stats" />
-  <img src="https://ghstats.dev/api/langs?username=frostsalix&theme=github_dark&hide_border=true" height="180" alt="languages" />
+  <img src="https://ghstats.dev/api/card?username=frostsalix&theme=default&hide_border=true" height="180" alt="stats" />
+  <img src="https://ghstats.dev/api/langs?username=frostsalix&theme=default&hide_border=true" height="180" alt="languages" />
 </p>
 
-### 📊 Activity Graph
+### GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frostsalix&theme=github_dark&bg_color=0d1117&color=c9d1d9&line=c9d1d9&point=c9d1d9&area=true" alt="Activity Graph" width="100%" />
-</p>
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frostsalix&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frostsalix&theme=github-light&hide_border=true&background=white" alt="GitHub Streak" />
 </p>
 
 </details>
 
 ---
 
-<details>
-<summary><h2>🧱 Tech Stack & Tools</h2></summary>
+<details open>
+<summary><h2>Tech Stack & Tools</h2></summary>
 <br>
 
 ### Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c,cpp,react,vue,tailwindcss,nodejs,fastapi,spring&perline=8" />
+  <img src="https://i.icoziv.workers.dev/icons?i=html,css,javascript,python,java,c,cpp,react,tailwindcss,nodejs,fastapi,spring&theme=light&perline=8" />
 </div>
 
 ### Databases & Cloud
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,cloudflare,vercel,kubernetes&perline=9" />
+  <img src="https://i.icoziv.workers.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,cloudflare,vercel,kubernetes&theme=light&perline=9" />
 </div>
 
 ### Infrastructure, Tools & Design
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,linux,bash,docker,nginx,npm,pnpm,vite,figma,vim,markdown,latex,stackoverflow,obsidian,&perline=9" />
+  <img src="https://i.icoziv.workers.dev/icons?i=git,githubactions,docker,nginx,linux,bash,npm,pnpm,vite,postman,ngrok,vim&theme=light&perline=6" />
 </div>
 </details>
