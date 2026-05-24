@@ -6,18 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=frostsalix&color=blue&style=flat-square" alt="visitor count" />
 </p>
 
----
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frostsalix&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=default&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostsalix&layout=compact&langs_count=8&theme=default&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frostsalix&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
 
 <h3 align="center">Tech Stack</h3>
 
