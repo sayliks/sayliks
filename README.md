@@ -3,12 +3,19 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayliks&color=blue&style=flat-square" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=sayliks&color=blue&style=flat-square&label=Visitors" alt="visitor count" />
+  <a href="https://matsumae.top">
+    <img src="https://img.shields.io/badge/matsumae.top-58A6FF?style=flat-square&logo=safari&logoColor=white&label=Website" alt="personal site" />
+  </a>
 </p>
 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayliks&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-two-navy.vercel.app/api/top-langs?username=sayliks&theme=dark&hide_border=true&layout=compact&langs_count=8&card_width=495" alt="Top Languages" />
 </p>
 
 
