@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,cloudflare,vercel,docker,kubernetes,nginx&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,cloudflare,vercel,netlify,docker,kubernetes,nginx,prisma,supabase&theme=light&perline=6" />
 </p>
 
 <p align="center">
