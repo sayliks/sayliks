@@ -15,13 +15,13 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,c,cpp,react,vue,tailwindcss,nodejs,spring&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,c,cpp,react,vue,tailwindcss,nodejs,spring&theme=dark&perline=8" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,cloudflare,vercel,netlify,docker,kubernetes,nginx,prisma,supabase&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,cloudflare,vercel,netlify,docker,kubernetes,nginx,prisma,supabase&theme=dark&perline=6" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,bash,linux,npm,postman,vim,grpc&theme=light&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,bash,linux,npm,postman,vim,grpc&theme=dark&perline=5" />
 </p>
