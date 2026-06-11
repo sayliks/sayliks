@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://github-readme-stats-two-navy.vercel.app/api/top-langs?username=sayliks&theme=system&hide_border=true&layout=compact&langs_count=8&card_width=495" alt="Top Languages" />
-</p>
-
-
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="center"> Tech Stack</h3>
 
 <h4 align="center">Languages & Frameworks</h4>
 <p align="center">
